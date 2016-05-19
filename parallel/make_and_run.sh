@@ -1,0 +1,2 @@
+make
+mpirun matrix_swift_parallel
